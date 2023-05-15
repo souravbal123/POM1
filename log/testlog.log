@@ -1,0 +1,63 @@
+2023-04-30 18:52:12,682 - POM_FrameWork -INFO - Chrome Browser selected
+2023-04-30 18:52:28,364 - POM_FrameWork -INFO - Chrome driver opened
+2023-04-30 18:52:42,212 - POM_FrameWork -INFO - https://gillette.com/ opened
+2023-04-30 18:52:42,347 - POM_FrameWork -INFO - window maximized
+2023-04-30 18:52:42,359 - POM_FrameWork -INFO - implicity wait applied
+2023-04-30 18:53:03,113 - POM_FrameWork -INFO - driver closed
+2023-04-30 19:00:41,847 - POM_FrameWork -INFO - Chrome Browser selected
+2023-04-30 19:00:44,797 - POM_FrameWork -INFO - Chrome driver opened
+2023-04-30 19:00:52,353 - POM_FrameWork -INFO - https://gillette.com/ opened
+2023-04-30 19:00:52,534 - POM_FrameWork -INFO - window maximized
+2023-04-30 19:00:52,549 - POM_FrameWork -INFO - implicity wait applied
+2023-04-30 19:00:57,928 - POM_FrameWork -INFO - Account link clicked
+2023-04-30 19:01:08,878 - POM_FrameWork -INFO - driver closed
+2023-04-30 19:02:23,741 - POM_FrameWork -INFO - Chrome Browser selected
+2023-04-30 19:02:25,860 - POM_FrameWork -INFO - Chrome driver opened
+2023-04-30 19:02:33,231 - POM_FrameWork -INFO - https://gillette.com/ opened
+2023-04-30 19:02:33,460 - POM_FrameWork -INFO - window maximized
+2023-04-30 19:02:33,472 - POM_FrameWork -INFO - implicity wait applied
+2023-04-30 19:02:38,925 - POM_FrameWork -INFO - Account link clicked
+2023-04-30 19:02:54,738 - POM_FrameWork -INFO - driver closed
+2023-04-30 19:22:38,014 - POM_FrameWork -INFO - Chrome Browser selected
+2023-04-30 19:22:40,112 - POM_FrameWork -INFO - Chrome driver opened
+2023-04-30 19:22:48,486 - POM_FrameWork -INFO - https://gillette.com/ opened
+2023-04-30 19:22:48,658 - POM_FrameWork -INFO - window maximized
+2023-04-30 19:22:48,665 - POM_FrameWork -INFO - implicity wait applied
+2023-04-30 19:22:54,082 - POM_FrameWork -INFO - Account link clicked
+2023-04-30 19:23:10,205 - POM_FrameWork -INFO - driver closed
+2023-05-12 11:28:49,565 - POM_FrameWork -INFO - Chrome Browser selected
+2023-05-12 11:29:02,425 - POM_FrameWork -INFO - Chrome driver opened
+2023-05-12 11:29:07,438 - POM_FrameWork -INFO - https://parabank.parasoft.com/parabank/index.htm opened
+2023-05-12 11:29:07,985 - POM_FrameWork -INFO - window maximized
+2023-05-12 11:29:08,043 - POM_FrameWork -INFO - implicity wait applied
+2023-05-12 11:29:08,897 - POM_FrameWork -INFO - Username Entered
+2023-05-12 11:29:09,286 - POM_FrameWork -INFO - Password entered
+2023-05-12 11:29:10,788 - POM_FrameWork -INFO - User logged in
+2023-05-12 11:29:11,290 - POM_FrameWork -INFO - Forgot login info link clicked
+2023-05-12 11:29:11,843 - POM_FrameWork -INFO - Register link clicked
+2023-05-12 11:29:13,128 - POM_FrameWork -INFO - driver closed
+2023-05-12 11:47:11,730 - POM_FrameWork -INFO - Chrome Browser selected
+2023-05-12 11:47:14,872 - POM_FrameWork -INFO - Chrome driver opened
+2023-05-12 11:47:29,091 - POM_FrameWork -INFO - https://parabank.parasoft.com/parabank/index.htm opened
+2023-05-12 11:47:29,213 - POM_FrameWork -INFO - window maximized
+2023-05-12 11:47:29,220 - POM_FrameWork -INFO - implicity wait applied
+2023-05-12 11:47:30,198 - POM_FrameWork -INFO - Billpay link is clicked
+2023-05-12 11:48:11,304 - POM_FrameWork -INFO - driver closed
+2023-05-12 14:35:00,817 - POM_FrameWork -INFO - Chrome Browser selected
+2023-05-12 14:35:08,369 - POM_FrameWork -INFO - Chrome driver opened
+2023-05-12 14:35:15,147 - POM_FrameWork -INFO - https://parabank.parasoft.com/parabank/index.htm opened
+2023-05-12 14:35:15,612 - POM_FrameWork -INFO - window maximized
+2023-05-12 14:35:15,629 - POM_FrameWork -INFO - implicity wait applied
+2023-05-12 14:35:16,106 - POM_FrameWork -INFO - Username Entered
+2023-05-12 14:35:16,297 - POM_FrameWork -INFO - Password entered
+2023-05-12 14:35:18,728 - POM_FrameWork -INFO - User logged in
+2023-05-12 14:35:19,346 - POM_FrameWork -INFO - Forgot login info link clicked
+2023-05-12 14:35:19,956 - POM_FrameWork -INFO - Register link clicked
+2023-05-12 14:35:20,878 - POM_FrameWork -INFO - driver closed
+2023-05-13 12:21:16,089 - POM_FrameWork -INFO - Chrome Browser selected
+2023-05-13 12:21:16,132 - POM_FrameWork -INFO - Chrome Browser selected
+2023-05-13 12:21:36,300 - POM_FrameWork -INFO - Chrome Browser selected
+2023-05-13 12:21:36,446 - POM_FrameWork -INFO - Chrome driver opened
+2023-05-13 12:21:42,367 - POM_FrameWork -INFO - Chrome driver opened
+2023-05-13 12:23:02,147 - POM_FrameWork -INFO - Chrome Browser selected
+2023-05-13 13:02:12,104 - POM_FrameWork -INFO - Chrome Browser selected

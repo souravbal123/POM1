@@ -13,7 +13,7 @@ public class Atm_Services extends Test_Base {
 	public static void withdrawfund() {
 		driver.findElement(withdrawFunds).click();
 		log.info("Withdraw fund link is clicked");
-		log.info("This is for testing");
+		log.info("This is for command test");
 	}
 
 	public static void transferfund() {
